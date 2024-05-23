@@ -48,6 +48,14 @@ function App() {
             </p>
           </div>
         </div>
+        <div className="flex justify-center mb-6">
+          <div className=" w-72 sm:w-96 ">
+            <video src="2.mp4" controls></video>
+            <p className="text-white mt-6 font-serif">
+              Handsome hunk🕶️👑
+            </p>
+          </div>
+        </div>
         <div className="flex justify-center">
           <div className=" w-72 sm:w-96">
             <img src="/a1.jpg" alt="Vite logo" className="rounded-[15px]" />
