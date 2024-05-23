@@ -1,33 +1,24 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useState } from "react";
+import reactLogo from "./assets/react.svg";
+import viteLogo from "/vite.svg";
 
-import './App.css'
+import "./App.css";
 
 function App() {
- 
-
   return (
     <>
-      <div className='card_hebbar'>
-    
-          <img src="/a1.jpg" alt="Vite logo" />
-        
+      <div className="flex justify-center">
+        <div className=" w-72 sm:w-96">
+          <img src="/a1.jpg" alt="Vite logo" className="border-2 rounded-[15px]" />
+        </div>
       </div>
-      <h1>Happy Birthday <span>Hebbar</span></h1>
-      {/* <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+      <div className="text-2xl sm:text-4xl lg:text-8xl font-bold mt-8">
+        <h1 className="text-[#CAA6F7]">
+          Happy Birthday <span className="text-[#AAE0BF]">Hebbar</span>
+        </h1>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p> */}
     </>
-  )
+  );
 }
 
-export default App
+export default App;
