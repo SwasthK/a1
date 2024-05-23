@@ -25,7 +25,7 @@ function App() {
             <p className="text-white mt-6 font-serif">Petrol Love ❤️</p>
           </div>
         </div>
-       
+
         <div className="flex justify-center mb-6">
           <div className=" w-72 sm:w-96">
             <img src="/a2.jpg" alt="Vite logo" className="rounded-[15px]" />
@@ -43,8 +43,10 @@ function App() {
         <div className="flex justify-center mb-6">
           <div className=" w-72 sm:w-96 ">
             <img src="/4.jpg" alt="Vite logo" className="rounded-[15px]" />
+            <p className="mt-2 text-sm  text-white font-normal ">
+              Handsome hunk🕶️👑
+            </p>
           </div>
-          <p className="mt-2 text-sm  text-white font-normal ">Handsome hunk🕶️👑</p>
         </div>
         <div className="flex justify-center">
           <div className=" w-72 sm:w-96">
