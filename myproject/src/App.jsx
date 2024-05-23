@@ -52,7 +52,7 @@ function App() {
           <div className=" w-72 sm:w-96 ">
             <video src="2.mp4" controls></video>
             <p className="text-white mt-6 font-serif">
-              Handsome hunk🕶️👑
+              Hebbar's party !🎉
             </p>
           </div>
         </div>
