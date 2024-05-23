@@ -11,7 +11,7 @@ function App() {
         <h1 className="text-[#CAA6F7]">
           Happy Birthday <span className="text-[#AAE0BF]">Hebbar</span>🥳🎈
         </h1>
-        <p className="mt-2 text-sm  text-white font-normal ">Scroll down⬇️</p>
+        <p className="mt-2 text-sm  text-white font-normal ">Scroll down ⬇️</p>
       </div>
       <div className="grid-cols-1 grid gap-5 md:grid-cols-3 grid-flow-row ">
         <div className="flex justify-center mb-6">
@@ -44,6 +44,7 @@ function App() {
           <div className=" w-72 sm:w-96 ">
             <img src="/4.jpg" alt="Vite logo" className="rounded-[15px]" />
           </div>
+          <p className="mt-2 text-sm  text-white font-normal ">Handsome hunk🕶️👑</p>
         </div>
         <div className="flex justify-center">
           <div className=" w-72 sm:w-96">
