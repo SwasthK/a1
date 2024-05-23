@@ -16,22 +16,22 @@ function App() {
       <div className="grid-cols-2 grid gap-5 md:grid-cols-4">
       <div className="flex justify-center">
         <div className=" w-72 sm:w-96">
-          <img src="/a1.jpg" alt="Vite logo" className="border-2 rounded-[15px]" />
+          <img src="/a1.jpg" alt="Vite logo" className="rounded-[15px]" />
         </div>
       </div>
       <div className="flex justify-center mb-6">
         <div className=" w-72 sm:w-96">
-          <img src="/a2.jpg" alt="Vite logo" className="border-2 rounded-[15px]" />
+          <img src="/a2.jpg" alt="Vite logo" className="rounded-[15px]" />
         </div>
       </div>
       <div className="flex justify-center mb-6">
         <div className=" w-72 sm:w-96">
-          <img src="/a3.jpg" alt="Vite logo" className="border-2 rounded-[15px]" />
+          <img src="/a3.jpg" alt="Vite logo" className="rounded-[15px]" />
         </div>
       </div>
       <div className="flex justify-center mb-6">
         <div className=" w-72 sm:w-96 ">
-          <img src="/4.jpg" alt="Vite logo" className="border-2 rounded-[15px]" />
+          <img src="/4.jpg" alt="Vite logo" className="rounded-[15px]" />
         </div>
       </div>
       </div>
