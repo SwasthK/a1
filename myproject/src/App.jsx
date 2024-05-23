@@ -12,7 +12,7 @@ function App() {
           <img src="/a1.jpg" alt="Vite logo" className="border-2 rounded-[15px]" />
         </div>
       </div>
-      <div className="text-2xl sm:text-4xl lg:text-8xl font-bold mt-8">
+      <div className="text-4xl sm:text-4xl lg:text-8xl font-bold mt-8">
         <h1 className="text-[#CAA6F7]">
           Happy Birthday <span className="text-[#AAE0BF]">Hebbar</span>
         </h1>
