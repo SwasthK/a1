@@ -79,7 +79,7 @@ img {
   /* width: 100%; */
   object-fit: contain;
   object-position: center;
-  /* border: 1px solid #8646D7; */
+  border: 1px solid #8646D7;
   border-radius:15px;
 }
 
